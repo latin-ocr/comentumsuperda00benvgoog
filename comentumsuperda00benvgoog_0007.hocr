@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./comentumsuperda00benvgoog_0007.png"; bbox 0 0 4154 6546; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 778 2094 1166 2193">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 778 2094 1166 2193">
+     <span class='ocr_line' id='line_1_1' title="bbox 778 2094 1166 2193; baseline 0 -2"><span class='ocrx_word' id='word_1_1' title='bbox 778 2094 1166 2193; x_wconf 73' lang='lat' dir='ltr'>GOMEN&#39;I&#39;UM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 503 2550 1450 2927">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 503 2550 1450 2927">
+     <span class='ocr_line' id='line_1_2' title="bbox 503 2550 1450 2673; baseline 0.002 -2"><span class='ocrx_word' id='word_1_2' title='bbox 503 2552 835 2673; x_wconf 80' lang='lat' dir='ltr'><strong>DANTIS</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 887 2550 1450 2673; x_wconf 78' lang='lat' dir='ltr'><strong>ALDIGHERIJ</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 734 2830 1217 2927; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 734 2830 1217 2927; x_wconf 76' lang='lat' dir='ltr'>00MOED1AM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 797 3283 1154 3349">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 797 3283 1154 3349">
+     <span class='ocr_line' id='line_1_4' title="bbox 797 3283 1154 3349; baseline 0.006 -2"><span class='ocrx_word' id='word_1_5' title='bbox 797 3284 949 3349; x_wconf 75' lang='lat' dir='ltr'>Tonus</span> <span class='ocrx_word' id='word_1_6' title='bbox 984 3283 1154 3349; x_wconf 63' lang='lat' dir='ltr'>Pramus</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 851 3488 1304 3581">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 851 3488 1304 3581">
+     <span class='ocr_line' id='line_1_5' title="bbox 851 3488 1304 3581; baseline -0.007 -21"><span class='ocrx_word' id='word_1_7' title='bbox 851 3492 920 3561; x_wconf 66' lang='lat' dir='ltr'>m.</span> <span class='ocrx_word' id='word_1_8' title='bbox 948 3488 1094 3559; x_wconf 82' lang='lat' dir='ltr'>1-xv11.</span> <span class='ocrx_word' id='word_1_9' title='bbox 1302 3576 1304 3581; x_wconf 81' lang='lat'><em>.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 2082 6546">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 2082 6546">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 2082 6546; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 2082 6546; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
